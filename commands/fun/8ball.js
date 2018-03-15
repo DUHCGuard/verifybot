@@ -26,6 +26,14 @@ module.exports = class EightBall extends Base {
             "It's a no from me.",
             "Absolutely not!",
             "Eeh, no."
+            "Not sure about that.",
+            "Uhh, can you ask me something else?",
+            "I guess so?",
+            "Possible.",
+            "You shouldn't ask that!",
+            "Without a doubt.",
+            "For sure.",
+            "Why would you even want to know that?"
         ];
 
         // Send a response
